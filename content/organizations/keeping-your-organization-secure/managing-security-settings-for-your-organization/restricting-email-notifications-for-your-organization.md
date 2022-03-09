@@ -45,3 +45,4 @@ For more information about verifying and approving domains for an organization, 
 {% data reusables.organizations.verified-domains %}
 {% data reusables.organizations.restrict-email-notifications %}
 6. Click **Save**.
+restricting-email - dianahlomio@gmail.com
